@@ -1,0 +1,12 @@
+com/websystique/springmvc/configuration/HelloWorldInitializer.class
+com/websystique/springmvc/controller/IndexController.class
+com/websystique/springmvc/service/ItemServiceImpl.class
+com/websystique/springmvc/configuration/CORSFilter.class
+com/websystique/springmvc/model/Printer.class
+com/websystique/springmvc/model/Phone.class
+com/websystique/springmvc/service/ItemService.class
+com/websystique/springmvc/controller/ItemController.class
+com/websystique/springmvc/model/Computer.class
+com/websystique/springmvc/controller/TemplateController.class
+com/websystique/springmvc/model/State.class
+com/websystique/springmvc/configuration/HelloWorldConfiguration.class
